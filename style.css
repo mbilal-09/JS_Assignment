@@ -1,0 +1,69 @@
+body {
+    background-color: black !important;
+    overflow-x: hidden;
+}
+
+.nav-btn {
+    background-color: #F9D342 !important;
+    color: black !important;
+}
+
+.nav-btn:hover {
+    color: #F9D342 !important;
+    background-color: black !important;
+    border-color: #F9D342 !important;
+}
+
+.nav-search {
+    border-color: white !important;
+}
+
+.heading {
+    color: white !important;
+    font-size: 60px !important;
+}
+
+.exercise-btn {
+    color: #F9D342 !important;
+    background-color: black !important;
+    border-color: #F9D342 !important;
+    border-width: 3px !important;
+    border-radius: 15px !important;
+    font-size: 30px !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    font-weight: 500 !important;
+    letter-spacing: 2px !important;
+    transition: .2s ease-in-out 0s !important;
+}
+
+.exercise-btn-link {
+    color: #F9D342;
+}
+
+
+
+.exercise-btn:hover {
+    transform: scale(1.25) !important;
+}
+
+footer {
+    background-color: rgb(17, 17, 17);
+    color: #F9D342;
+    padding: 50px 0;
+}
+
+.footer-div {
+    letter-spacing: 1px !important;
+}
+
+.footer-div > span > a {
+    color: #F9D342 !important;
+    text-decoration: none !important;
+}
+
+.footer-copyright {
+    margin-bottom: -50px !important;
+}
